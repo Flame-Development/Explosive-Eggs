@@ -1,0 +1,4 @@
+name: Explosive-Eggs
+version: '${project.version}'
+main: ir.flamedevelopment.ExplosiveEggs
+api-version: 1.19
